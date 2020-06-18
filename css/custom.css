@@ -15,5 +15,6 @@ header {
 }
 
 .tamusa-seal {
-	height: 10rem;
+	/*This was tremendously hard to get right and I don't like the way it is set up currently. I wish Bootstrap could specifiy a min height*/
+	height: 9rem;
 }
