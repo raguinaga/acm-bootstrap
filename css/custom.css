@@ -15,6 +15,6 @@ header {
 }
 
 .tamusa-seal {
-	/*This was tremendously hard to get right and I don't like the way it is set up currently. I wish Bootstrap could specifiy a min height*/
-	height: 9rem;
+	/*This was very tedious to get right and I still don't like having to manually set the height of the seal. If the header ever changes, this must be adjusted as well. I cannot find any Bootstrap or CSS to get this to automatically adjust itself*/
+	max-height: 8.5rem;
 }
