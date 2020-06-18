@@ -1,3 +1,10 @@
+@font-face {
+	font-family: silkscreennormal;
+	src: local('../assets/fonts/web_fonts/silkscreen_normal_macroman/slkscr-webfont.woff') format('woff');
+	font-style: normal;
+	font-weight: normal;
+}
+
 body {
 	background-color: #702e3d;
 }
